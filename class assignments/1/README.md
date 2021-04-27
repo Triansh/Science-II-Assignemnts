@@ -1,8 +1,8 @@
-## Random Walk
+## Assignment 1
 
 
-## TO RUN
-Type the following commands
+### How to run
+* Type the following commands
 ```
 python -m venv venv
 pip install -r requirements.txt

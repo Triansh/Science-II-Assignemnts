@@ -1,8 +1,8 @@
-## PI Calculation
+## Assignment 2
 
-### TO RUN
+### How to Run
 
-Type the following commands
+* Type the following commands
 
 ```
 python -m venv venv
